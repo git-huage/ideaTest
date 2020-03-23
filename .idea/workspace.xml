@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d782748-92e7-45e2-9118-3b8abb04a6da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ideaTest.iml" afterDir="false" />
+    <list default="true" id="5d782748-92e7-45e2-9118-3b8abb04a6da" name="Default Changelist" comment="lxy/dev:1111">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/woniu/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/woniu/test/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +48,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="ServiceViewManager">
@@ -78,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584967583573</updated>
-      <workItem from="1584967591932" duration="1079000" />
+      <workItem from="1584967591932" duration="1754000" />
     </task>
     <task id="LOCAL-00001" summary="lxy/lxy:first">
       <created>1584967927654</created>
@@ -87,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584967927654</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lxy/lxy:second">
+      <created>1584968711490</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584968711490</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lxy/dev:second">
+      <created>1584968848584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584968848584</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,29 +109,40 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lxy/lxy:first" />
-    <option name="LAST_COMMIT_MESSAGE" value="lxy/lxy:first" />
+    <MESSAGE value="lxy/lxy:second" />
+    <MESSAGE value="lxy/dev:second" />
+    <MESSAGE value="lxy/dev:1111" />
+    <option name="LAST_COMMIT_MESSAGE" value="lxy/dev:1111" />
   </component>
   <component name="WindowStateProjectService">
     <state x="614" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584967707784">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="614" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584967707784" />
-    <state x="372" y="5" key="CommitChangelistDialog2" timestamp="1584968710493">
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1584969522452">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584968710493" />
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584969522452" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1584967635559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584967635559" />
+    <state x="147" y="71" key="MergeDialog" timestamp="1584968890857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="71" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1584968890857" />
+    <state x="477" y="128" key="MultipleFileMergeDialog" timestamp="1584968893102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="128" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1584968893102" />
     <state x="270" y="55" key="SettingsEditor" timestamp="1584967661092">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584967661092" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584968014671">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584968932736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584968014671" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584968932736" />
     <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1584967591947">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
